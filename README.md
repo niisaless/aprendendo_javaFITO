@@ -1,8 +1,24 @@
-<<<<<<< HEAD
-"# protejosescolar.fito" 
-=======
-"# aprendendo_javaFITO"  
-"# aprendendo_javaFITO" 
-"# aprendendo_javaFITO" 
-"# aprendendo_javaFITO" 
->>>>>>> 5e3e54c36edd3d107d8afb9a0503d0754ec14ac4
+## Calculadora de Áreas em Java
+
+Projeto desenvolvido em Java utilizando Programação Orientada a Objetos (POO).
+
+## Objetivo
+Aplicação em console que calcula automaticamente a área de diferentes tipos de terrenos:
+- Quadrado
+- Retângulo
+- Circulo
+  
+## Conceitos aplicados
+- Encapsulamento
+- Herança
+- Polimorfismo
+- ArrayList
+- CRUD (Cadastrar, Listar e Deletar)
+- Operador Ternário
+- Estruturas de decisão (if, switch)
+- Laço de repetição (do-while)
+
+## Autora: 
+Nicole Sales 
+- Realizado na: FITO
+
